@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610488632207",
+    "firebase_url": "https://hackathonsamsung-c0335.firebaseio.com",
+    "project_id": "hackathonsamsung-c0335",
+    "storage_bucket": "hackathonsamsung-c0335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610488632207:android:7d42369f740eb6a477c1fa",
+        "android_client_info": {
+          "package_name": "com.example.hackathonsamsung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610488632207-oln62o5i2lbmolud269ehria1erpmni4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathonsamsung",
+            "certificate_hash": "a7f2967db64186aba8814f6112a2379a3d8d38e2"
+          }
+        },
+        {
+          "client_id": "610488632207-g5ldil4ohn70dgo5aico0baditt7hg9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDksltKKM-3h952ttQHka-pYSVCaaUbFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610488632207-g5ldil4ohn70dgo5aico0baditt7hg9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
